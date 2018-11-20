@@ -44,7 +44,6 @@ C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.1\MvcMovi
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.1\MvcMovie.pdb
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.1\MvcMovie.Views.dll
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.1\MvcMovie.Views.pdb
-C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csprojAssemblyReference.cache
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.RazorAssemblyInfo.cache
 C:\Users\Florianb\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.RazorAssemblyInfo.cs
